@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sin-Yu Huang"
-description              : "Ph.D. student in department of ECE in UBC. "
+description              : "A Ph.D. student studying LLMs and wireless communication. "
 repository               : "Sinyu104/Sinyu104.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Sinyu104"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "sin-yu-huang-37696316b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-5329-037X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
