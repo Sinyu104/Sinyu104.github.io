@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a Ph.D. student in the Department of Electrical and Computer Engineering (ECE) at the University of British Columbia (UBC), supervised by Prof. [Vincent Wong](https://people.ece.ubc.ca/~vincentw/Homepage/Home.html). My research focuses on leveraging large language models to enhance wireless communication networks, with an emphasis on areas such as semantic communication and edge computing. Prior to joining UBC, I worked as a research assistant at the Research Center for Information Technology Innovation, Academia Sinica, Taiwan, in 2023, under the supervision of Dr. [Chih-Yu Wang](https://homepage.citi.sinica.edu.tw/pages/cywang/index_en.html), where I studied phase shift design for reconfigurable intelligent surfaces. I received my B.S. and M.S. degrees in Electrical Engineering from National Cheng Kung University, Tainan, Taiwan, in 2021 and 2022, respectively. During my master's studies, I was supervised by Prof. [Kuang-Hao Liu](https://www.ee.nthu.edu.tw/khliu/) and focused on cooperative communications and the age of information (AoI) for IoT devices.
 
-<!-- My past research interest includes RIS and cooperative communications. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com.tw/citations?user=epYiVosAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=epYiVosAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My past research interest includes RIS and cooperative communications. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com.tw/citations?user=epYiVosAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=epYiVosAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -67,7 +67,7 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/infocom.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/infocom.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Student Voluteer in INFOCOM](https://infocom2024.ieee-infocom.org)
