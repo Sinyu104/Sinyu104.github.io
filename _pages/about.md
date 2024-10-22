@@ -67,7 +67,7 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/infocom.JPG' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/infocom.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Student Voluteer in INFOCOM](https://infocom2024.ieee-infocom.org)
@@ -77,4 +77,4 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 - During INFOCOM 2024, I had the opportunity to serve as a student volunteer. I facilitated virtual presentations via Zoom, ensuring smooth transitions between speakers and resolving any technical issues. Additionally, I assisted with in-person duties such as working at the registration desk, where I greeted attendees and provided information, and checking badges during key events to maintain security and order. This experience enhanced my organizational and communication skills while giving me valuable insight into event coordination in a large-scale academic conference.
 
 </div>
-</div>
+</div> -->
