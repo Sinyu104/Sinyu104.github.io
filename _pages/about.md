@@ -67,7 +67,7 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/infocom.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/Infocom.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Student Voluteer in INFOCOM](https://infocom2024.ieee-infocom.org)
