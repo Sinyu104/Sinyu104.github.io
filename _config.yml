@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sin-Yu Huang"
-description              : "A Ph.D. student in University of British Columbia (UBC). "
+description              : "Ph.D. student in department of ECE in UBC. "
 repository               : "Sinyu104/Sinyu104.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sin-Yu Huang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of British Columbia (UBC)"
+  avatar           : "images/avatar.jpg"
+  bio              : "syhuang@ece.ubc.ca"
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "sin-yu-huang-37696316b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
