@@ -22,6 +22,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 🔥 News
+- *2025.3*: We are going to submit a paper to *IEEE Global Communications Conference (GlobeCom) 2025*!
 - *2024.10*: We are going to submit a paper to *IEEE International Conference on Communications (ICC) 2025*!
 
 
@@ -55,6 +56,7 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 # 💻 Work Experiences
 - Academic:
   - *2023.09 - Now*, Graduate Research Assistant, University of British Columbia, Vancouver, BC, Canada
+  - *2025.01 - Now*, Graduate Teaching Assistant for Computer Network ELEC 331, University of British Columbia, Vancouver, BC, Canada
   - *2022.09 - 2023.08*, Full-time Research Assistant, Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan
   - *2020.09 - 2021.01*, Teaching Assistant for Discrete Mathematics, Electrical Engineering, National Cheng Kung University, Tainan, Taiwan
 - Industry:
@@ -63,7 +65,7 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 # 🎖 Honors and Awards
 - *2023.09 - 2025.08*, President's Academic Excellence Initiative PhD, University of British Columbia. 
 - *2023.09 - 2025.08*, International Tuition Award, University of British Columbia. 
-- *2023.09* Faculty of Applied Science Graduate Award, University of British Columbia. 
+- *2023.09 - 2025.08* Faculty of Applied Science Graduate Award, University of British Columbia. 
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
@@ -78,3 +80,5 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 
 </div>
 </div>
+
+<center>Last update: Mar. 19 2025 </center> 
