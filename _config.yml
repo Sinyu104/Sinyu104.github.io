@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sin-Yu Huang"
-description              : "A Ph.D. student studying LLMs and wireless communication. "
+description              : " AI-Driven Wireless Communication, LLMs, and Agentic AI"
 repository               : "Sinyu104/Sinyu104.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sin-Yu Huang"
   avatar           : "images/avatar.JPG"
-  bio              : "University of British Columbia (UBC)"
+  bio              : "Ph.D. @ ECE UBC"
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 

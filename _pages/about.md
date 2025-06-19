@@ -22,6 +22,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 🔥 News
+- *2025.6*: I'm serving as a reviewer for the *IEEE Journal on Selected Areas in Communications (JSAC)*!
 - *2025.3*: We are going to submit a paper to *IEEE Global Communications Conference (GlobeCom) 2025*!
 - *2024.10*: We are going to submit a paper to *IEEE International Conference on Communications (ICC) 2025*!
 
@@ -56,7 +57,7 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 # 💻 Work Experiences
 - Academic:
   - *2023.09 - Now*, Graduate Research Assistant, University of British Columbia, Vancouver, BC, Canada
-  - *2025.01 - Now*, Graduate Teaching Assistant for Computer Network ELEC 331, University of British Columbia, Vancouver, BC, Canada
+  - *2025.01 - 2025.04*, Graduate Teaching Assistant for Computer Network ELEC 331, University of British Columbia, Vancouver, BC, Canada
   - *2022.09 - 2023.08*, Full-time Research Assistant, Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan
   - *2020.09 - 2021.01*, Teaching Assistant for Discrete Mathematics, Electrical Engineering, National Cheng Kung University, Tainan, Taiwan
 - Industry:
@@ -69,11 +70,25 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/Icc2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Presenter at ICC 2025](https://icc2025.ieee-icc.org/)
+8–12 June, Montreal, Canada
+
+
+- I presented my work “Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication” at IEEE ICC 2025. The paper introduces a Mixture-of-Experts (MoE) LLM framework for zero-shot, task-oriented semantic communication across multiple tasks without fine-tuning. It shows how foundation models can enable flexible and efficient communication in dynamic wireless environments. I also enjoyed connecting with researchers in AI-driven wireless systems. It was a truly inspiring experience.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/Infocom.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Student Voluteer in INFOCOM](https://infocom2024.ieee-infocom.org)
-20–23 May 2024, Vancouver, Canada
+[Student Voluteer in INFOCOM 2024](https://infocom2024.ieee-infocom.org)
+20–23 May, Vancouver, Canada
 
 
 - During INFOCOM 2024, I had the opportunity to serve as a student volunteer. I facilitated virtual presentations via Zoom, ensuring smooth transitions between speakers and resolving any technical issues. Additionally, I assisted with in-person duties such as working at the registration desk, where I greeted attendees and provided information, and checking badges during key events to maintain security and order. This experience enhanced my organizational and communication skills while giving me valuable insight into event coordination in a large-scale academic conference.
