@@ -23,23 +23,23 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 # 🔥 News
 - *2025.6*: I'm serving as a reviewer for the *IEEE Journal on Selected Areas in Communications (JSAC)*!
+- *2025.5*: We are going to submit a paper to *IEEE Journal on Selected Areas in Communications (JSAC)*!
 - *2025.3*: We are going to submit a paper to *IEEE Global Communications Conference (GlobeCom) 2025*!
-- *2024.10*: We are going to submit a paper to *IEEE International Conference on Communications (ICC) 2025*!
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT 2022</div><img src='images/huang1-3185791-small.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/ICCpaper2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Relay selection for energy harvesting relays with energy prioritization and inter-relay charging](https://ieeexplore.ieee.org/abstract/document/9805690)
-in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655, Oct. 2022
+[Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication](https://arxiv.org/pdf/2503.15722) in *Proc. of IEEE International Conference on Communications (ICC)*, Montreal, Canada, Jun. 2025.
 
-**Sin-Yu Huang**, Kuang-Hao Liu
+**Sin-Yu Huang**, Renjie Liao, and Vincent W.S. Wong
 
 
-- In this work, we propose a relay selection scheme for buffer-aided relays that store the received signal in a finite data buffer and accumulate the energy harvested from RF signals in a finite energy storage. In the proposed scheme, relays are prioritized according to their instantaneous energy and data buffer status as well as channel conditions reported by relays. The performance of the proposed relay selection scheme is theoretically analyzed using a discrete-time Markov chain and show the superiority of the proposed relay selection scheme than the state-of-art. 
-[**Source code**](https://github.com/Sinyu104/EPRS-Relay-Selection-Scheme) <strong><span class='show_paper_citations' data='epYiVosAAAAJ:u5HHmVD_uO8C'></span></strong>
+- In this work, we propose a semantic communication system that employs a Mixture-of-Experts (MoE)-based large language model to support zero-shot multi-task transmission. The transmitter encodes source data into semantic representations conditioned on the receiver’s task prompt, while the MoE architecture selectively activates expert modules for efficient adaptation. Experiments show that the proposed system outperforms standard dense models in zero-shot multi-task semantic communication scenarios.
+
+<!-- <strong><span class='show_paper_citations' data='epYiVosAAAAJ:u5HHmVD_uO8C'></span></strong>  -->
 </div>
 </div>
 
@@ -48,6 +48,8 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 - Wei-Yu Chen, Chih-Yu Wang, Ren-Hung Hwang, Wen-Tsuen Chen and **Sin-Yu Huang**, "[Impact of Hardware Impairment on the Joint Reconfigurable Intelligent Surface and Robust Transceiver Design in MU-MIMO System](https://ieeexplore.ieee.org/abstract/document/10149520)", in *IEEE Transactions on Mobile Computing*, vol. 23, no. 5, pp. 3993-4008, May 2024
 
 - **Sin-Yu Huang**, Kuang-Hao Liu, "[Average AoI Minimization for Energy Harvesting Relay-Aided Status Update Network Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10130605)", in *IEEE Wireless Communications Letters*, vol. 12, no. 8, pp. 1464-1468, Aug. 2023.
+
+- **Sin-Yu Huang**, Kuang-Hao Liu, "[Relay selection for energy harvesting relays with energy prioritization and inter-relay charging](https://ieeexplore.ieee.org/abstract/document/9805690)", in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655, Oct. 2022. [Source code](https://github.com/Sinyu104/EPRS-Relay-Selection-Scheme)
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D., Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada.
@@ -96,4 +98,4 @@ in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655
 </div>
 </div>
 
-<center>Last update: Mar. 19 2025 </center> 
+<center>Last update: July 7, 2025 </center> 
