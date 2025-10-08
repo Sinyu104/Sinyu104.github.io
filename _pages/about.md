@@ -22,9 +22,9 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 🔥 News
+- *2025.10*: We are going to submit a paper to *IEEE International Conference on Communications (ICC) 2026*!
+- *2025.8*: My paper has been accepted by *IEEE Global Communications Conference (GlobeCom) 2025*! Looking forward to coming to Taiwan!
 - *2025.6*: I'm serving as a reviewer for the *IEEE Journal on Selected Areas in Communications (JSAC)*!
-- *2025.5*: We are going to submit a paper to *IEEE Journal on Selected Areas in Communications (JSAC)*!
-- *2025.3*: We are going to submit a paper to *IEEE Global Communications Conference (GlobeCom) 2025*!
 
 
 # 📝 Publications 
@@ -51,7 +51,17 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 - **Sin-Yu Huang**, Kuang-Hao Liu, "[Relay selection for energy harvesting relays with energy prioritization and inter-relay charging](https://ieeexplore.ieee.org/abstract/document/9805690)", in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655, Oct. 2022. [Source code](https://github.com/Sinyu104/EPRS-Relay-Selection-Scheme)
 
-# 📖 Educations
+# 📚 Academic Services
+- Journal reviewer:
+  - *IEEE Journal on Selected Areas in Communications (JSAC)*  
+  Special Issue: Large AI Models for Future Wireless Communication Systems
+  - *IEEE Communications Magazine (COMMAG)*  
+  Special Issue: Large AI Models for Communications
+  - *IEEE Network Magazine*  
+  Special Issue: Large AI Models for the Internet of Everything
+
+
+# 🏛️ Educations
 - *2023.09 - Now*, Ph.D., Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada.
 - *2021.09 - 2022.06*, M.S., Electrical Computer and Communication Engineering, Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan.
 - *2017.09 - 2021.06*, B.S., Electrical Engineering, National Cheng Kung University, Taiwan. 
@@ -59,7 +69,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 # 💻 Work Experiences
 - Academic:
   - *2023.09 - Now*, Graduate Research Assistant, University of British Columbia, Vancouver, BC, Canada
-  - *2025.01 - 2025.04*, Graduate Teaching Assistant for Computer Network ELEC 331, University of British Columbia, Vancouver, BC, Canada
+  - *2025.01 - 2025.04*; *2025.09 - 2025.12*, Graduate Teaching Assistant for Computer Network ELEC 331, University of British Columbia, Vancouver, BC, Canada
   - *2022.09 - 2023.08*, Full-time Research Assistant, Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan
   - *2020.09 - 2021.01*, Teaching Assistant for Discrete Mathematics, Electrical Engineering, National Cheng Kung University, Tainan, Taiwan
 - Industry:
@@ -98,4 +108,4 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 </div>
 </div>
 
-<center>Last update: July 7, 2025 </center> 
+<center>Last update: October 8, 2025 </center> 
