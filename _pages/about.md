@@ -29,7 +29,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025.jpg' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025_visual.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025_visual.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized User-Oriented Image Semantic Coding Empowered by Large Vision-Language Model](https://arxiv.org/abs/2509.08913) in *Proc. of IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
@@ -72,6 +72,9 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
   Special Issue: Large AI Models for Communications
   - *IEEE Network Magazine*  
   Special Issue: Large AI Models for the Internet of Everything
+- Conference TPC member:
+  - *IEEE International Conference on Communications (ICC) 2026*  
+  SAC: Machine Learning for Communication and Networking
 
 
 # 🏛️ Educations
@@ -95,7 +98,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/Icc2025.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/Icc2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
