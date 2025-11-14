@@ -95,7 +95,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/Icc2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/Icc2025.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
