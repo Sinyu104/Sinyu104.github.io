@@ -28,11 +28,24 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 📝 Publications 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025.jpg' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025_visual.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Generalized User-Oriented Image Semantic Coding Empowered by Large Vision-Language Model](https://arxiv.org/abs/2509.08913) in *Proc. of IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+
+**Sin-Yu Huang** and Vincent W.S. Wong
+
+
+- In this work, we propose a generalized user-oriented image semantic coding framework that leverages large vision-language models to capture and transmit task-relevant semantics conditioned on user intent. The system aligns image and text embeddings through CLIP-based representation learning and optimizes a user-intent relevance loss using a multimodal assistant model to preserve semantic consistency during transmission. Experimental results demonstrate that the proposed method achieves superior query alignment and semantic fidelity compared with traditional and existing quary-aware semantic coding schemes.
+
+<!-- <strong><span class='show_paper_citations' data='epYiVosAAAAJ:u5HHmVD_uO8C'></span></strong>  -->
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/ICCpaper2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication](https://arxiv.org/pdf/2503.15722) in *Proc. of IEEE International Conference on Communications (ICC)*, Montreal, Canada, Jun. 2025.
+[Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication](https://ieeexplore.ieee.org/document/11161303) in *Proc. of IEEE International Conference on Communications (ICC)*, Montreal, Canada, Jun. 2025.
 
 **Sin-Yu Huang**, Renjie Liao, and Vincent W.S. Wong
 
@@ -76,9 +89,9 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
   - *2021.07 - 2021.08*, WiFi Embedded Software Engineer Summer Intern, [MediaTek](https://www.mediatek.com), Hsinchu, Taiwan.
 
 # 🎖 Honors and Awards
-- *2023.09 - 2025.08*, President's Academic Excellence Initiative PhD, University of British Columbia. 
-- *2023.09 - 2025.08*, International Tuition Award, University of British Columbia. 
-- *2023.09 - 2025.08* Faculty of Applied Science Graduate Award, University of British Columbia. 
+- *2023.09 - 2026.08*, President's Academic Excellence Initiative PhD, University of British Columbia. 
+- *2023.09 - 2026.08*, International Tuition Award, University of British Columbia. 
+- *2023.09 - 2026.08* Faculty of Applied Science Graduate Award, University of British Columbia. 
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
@@ -108,4 +121,4 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 </div>
 </div>
 
-<center>Last update: October 8, 2025 </center> 
+<center>Last update: November 14, 2025 </center> 
