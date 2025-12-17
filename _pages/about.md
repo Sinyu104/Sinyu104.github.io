@@ -98,6 +98,19 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecom2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Presenter at Globecom 2025](https://globecom2025.ieee-globecom.org/)
+8–12 December, Taipei, Taiwan
+
+
+- I presented my paper “Generalized User-Oriented Image Semantic Coding Empowered by Large Vision-Language Model” at IEEE GLOBECOM 2025. This work studies how user intent can be explicitly incorporated into image semantic coding by using text queries to guide feature transmission. By leveraging large vision-language models, the proposed framework achieves strong zero-shot generalization to unseen image content. I had valuable discussions with researchers working on semantic communication and AI-enabled wireless systems. It was a very rewarding experience.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2025</div><img src='images/Icc2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
