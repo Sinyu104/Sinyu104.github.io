@@ -68,9 +68,11 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 - Journal reviewer:
   - *IEEE Journal on Selected Areas in Communications (JSAC)*  
   Special Issue: Large AI Models for Future Wireless Communication Systems
+  - *IEEE Wireless Communications*  
+  Special Issue: From Large AI Models to Agentic AI: Toward Intelligent 6G Networks
   - *IEEE Communications Magazine (COMMAG)*  
   Special Issue: Large AI Models for Communications
-  - *IEEE Network Magazine*  
+  - *IEEE Network*  
   Special Issue: Large AI Models for the Internet of Everything
 - Conference TPC member:
   - *IEEE International Conference on Communications (ICC) 2026*  
@@ -137,4 +139,4 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 </div>
 </div>
 
-<center>Last update: November 14, 2025 </center> 
+<center>Last update: December 29, 2025 </center> 
