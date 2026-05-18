@@ -28,6 +28,18 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2026</div><img src='images/ICC2026paper.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward Agentic AI: Task-Oriented Communication for Hierarchical Planning of Long-Horizon Tasks](https://arxiv.org/pdf/2601.13685) in *Proc. of IEEE International Conference on Communications (ICC)*, Glasgow, UK, May 2026.
+
+**Sin-Yu Huang**, Lele Wang, and Vincent W.S. Wong
+
+
+- In this work, we propose a hierarchical task oriented communication framework for agentic AI systems executing complex tasks. The architecture employs a high level planner to divide long horizon goals into sequential subtasks and a low level actor to execute physical actions. To optimize bandwidth, we implement a conditional variational information bottleneck that filters out irrelevant environmental data and transmits only the essential observation features needed for the active subtask. Experimental evaluations on the AI2 THOR platform show that our approach maintains a high task success rate while significantly reducing data transmission compared with traditional communication methods.
+<!-- <strong><span class='show_paper_citations' data='epYiVosAAAAJ:u5HHmVD_uO8C'></span></strong>  -->
+</div>
+</div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025.jpg' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecompaper2025_visual.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,6 +86,8 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
   Special Issue: Large AI Models for Communications
   - *IEEE Network*  
   Special Issue: Large AI Models for the Internet of Everything
+  - *IEEE Transactions on Network Science and Engineering*   
+  Special Issue: Integrating Agentic AI in Intelligent Wireless Networks
 - Conference TPC member:
   - *IEEE International Conference on Communications (ICC) 2026*  
   SAC: Machine Learning for Communication and Networking
