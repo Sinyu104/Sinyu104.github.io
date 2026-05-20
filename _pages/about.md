@@ -22,7 +22,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 🔥 News
-- *2025.10*: We are going to submit a paper to *IEEE International Conference on Communications (ICC) 2026*!
+- *2026.5*: My paper has been accepted by *IEEE International Conference on Communications (ICC) 2026*! Coming to Glasgow!
 - *2025.8*: My paper has been accepted by *IEEE Global Communications Conference (GlobeCom) 2025*! Looking forward to coming to Taiwan!
 - *2025.6*: I'm serving as a reviewer for the *IEEE Journal on Selected Areas in Communications (JSAC)*!
 
@@ -153,4 +153,4 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 </div>
 </div>
 
-<center>Last update: December 29, 2025 </center> 
+<center>Last update: May 20, 2026 </center> 
