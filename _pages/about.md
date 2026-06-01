@@ -114,9 +114,20 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 - *2017.09* Outstanding student for academic achievement, National Cheng Kung University. 
 
 # 💬 Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecom2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2026</div><img src='images/ICC2026.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Session chair and presenter at ICC 2026](https://icc2026.ieee-icc.org)
+24–28 May, Glasgow, Scotland, UK
+
+
+- I presented my paper “Toward Agentic AI: Task-Oriented Communication for Hierarchical Planning of Long-Horizon Tasks” at IEEE ICC 2026. This work introduces a framework that optimizes how robotic agents transmit environmental data to edge servers during complex tasks. Because a high-level planner breaks long-horizon goals into subtasks, the JSCC encoder and decoder are trained to send only the visual features conditioned on current subtask. This approach successfully reduces data transmission while maintaining high task success rates. The event gave me a great opportunity to connect and share ideas with researchers in semantic communication and AI-enabled wireless systems.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2025</div><img src='images/Globecom2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Presenter at Globecom 2025](https://globecom2025.ieee-globecom.org/)
 8–12 December, Taipei, Taiwan
