@@ -22,9 +22,9 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 🔥 News
+- *2026.8*: The first journal paper in my PhD has been accepted by *IEEE Transactions on Communications*! 
 - *2026.5*: My paper has been accepted by *IEEE International Conference on Communications (ICC) 2026*! Coming to Glasgow!
 - *2025.8*: My paper has been accepted by *IEEE Global Communications Conference (GlobeCom) 2025*! Looking forward to coming to Taiwan!
-- *2025.6*: I'm serving as a reviewer for the *IEEE Journal on Selected Areas in Communications (JSAC)*!
 
 
 # 📝 Publications 
@@ -68,13 +68,15 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 </div>
 </div>
 
+- **Sin-Yu Huang** and Vincent W.S. Wong, "[Generalized Query-Oriented Image Semantic Coding Empowered by Large AI Models and Semantic-Aware Hybrid Beamforming](https://ieeexplore.ieee.org/abstract/document/11643822)", *IEEE Transactions on Communications*, vol. 74, pp. 12468-12484, Aug. 2026.
+
 - **Sin-Yu Huang**, Jia-You Lin, Chih-Yu Wang and Ren-Hung Hwang, "[MSE Minimization for RIS-Assisted Wireless Networks with Phase Error and Phase-Dependent Amplitude Response](https://ieeexplore.ieee.org/abstract/document/10683024)", in *Proc. of IEEE Vehicular Technology Conference (VTC2024-Spring)*, Singapore, Jun. 2024.
 
-- Wei-Yu Chen, Chih-Yu Wang, Ren-Hung Hwang, Wen-Tsuen Chen and **Sin-Yu Huang**, "[Impact of Hardware Impairment on the Joint Reconfigurable Intelligent Surface and Robust Transceiver Design in MU-MIMO System](https://ieeexplore.ieee.org/abstract/document/10149520)", in *IEEE Transactions on Mobile Computing*, vol. 23, no. 5, pp. 3993-4008, May 2024
+- Wei-Yu Chen, Chih-Yu Wang, Ren-Hung Hwang, Wen-Tsuen Chen and **Sin-Yu Huang**, "[Impact of Hardware Impairment on the Joint Reconfigurable Intelligent Surface and Robust Transceiver Design in MU-MIMO System](https://ieeexplore.ieee.org/abstract/document/10149520)", *IEEE Transactions on Mobile Computing*, vol. 23, no. 5, pp. 3993-4008, May 2024
 
-- **Sin-Yu Huang**, Kuang-Hao Liu, "[Average AoI Minimization for Energy Harvesting Relay-Aided Status Update Network Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10130605)", in *IEEE Wireless Communications Letters*, vol. 12, no. 8, pp. 1464-1468, Aug. 2023.
+- **Sin-Yu Huang** and Kuang-Hao Liu, "[Average AoI Minimization for Energy Harvesting Relay-Aided Status Update Network Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10130605)", in *IEEE Wireless Communications Letters*, vol. 12, no. 8, pp. 1464-1468, Aug. 2023.
 
-- **Sin-Yu Huang**, Kuang-Hao Liu, "[Relay selection for energy harvesting relays with energy prioritization and inter-relay charging](https://ieeexplore.ieee.org/abstract/document/9805690)", in *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655, Oct. 2022. [Source code](https://github.com/Sinyu104/EPRS-Relay-Selection-Scheme)
+- **Sin-Yu Huang** and Kuang-Hao Liu, "[Relay selection for energy harvesting relays with energy prioritization and inter-relay charging](https://ieeexplore.ieee.org/abstract/document/9805690)", *IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 10646-10655, Oct. 2022. [Source code](https://github.com/Sinyu104/EPRS-Relay-Selection-Scheme)
 
 # 📚 Academic Services
 - Journal reviewer:
@@ -89,8 +91,10 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
   - *IEEE Transactions on Network Science and Engineering*   
   Special Issue: Integrating Agentic AI in Intelligent Wireless Networks
 - Conference TPC member:
-  - *IEEE International Conference on Communications (ICC) 2026*  
+  - *IEEE International Conference on Communications (ICC) 2026, 2027*  
   SAC: Machine Learning for Communication and Networking
+  - *International Conference on Wireless Communications and Signal Processing (WCSP) 2026*  
+  Symposium: Edge Intelligence, Computing, and Caching
 
 
 # 🏛️ Educations
@@ -164,4 +168,4 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 </div>
 </div>
 
-<center>Last update: May 20, 2026 </center> 
+<center>Last update: Sep. 13, 2026 </center> 
