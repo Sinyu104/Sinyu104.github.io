@@ -22,6 +22,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering (E
 
 
 # 🔥 News
+- *2026.11*: Check out my latest work in Wyner-Ziv Semantic Communication! [Take a quick look here!](https://sinyu104.github.io/Predict-SemCom/)
 - *2026.8*: The first journal paper in my PhD has been accepted by *IEEE Transactions on Communications*! 
 - *2026.5*: My paper has been accepted by *IEEE International Conference on Communications (ICC) 2026*! Coming to Glasgow!
 - *2025.8*: My paper has been accepted by *IEEE Global Communications Conference (GlobeCom) 2025*! Looking forward to coming to Taiwan!
